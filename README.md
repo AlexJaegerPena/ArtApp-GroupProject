@@ -12,6 +12,9 @@ The app is based on the public API of The Metropolitan Museum of Art and aims to
 The application allows users to browse artworks from The Met’s collection, explore details, and discover art in an intuitive, visually driven way.
 All content is fetched dynamically via the museum’s official public API.
 
+
+👉 [View App](https://bav-labs.github.io/musea/) 
+
 ---
 
 ### 📂 Repository & Code
