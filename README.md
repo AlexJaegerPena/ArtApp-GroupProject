@@ -1,4 +1,4 @@
-# 🎨 The Met - Companion App (Android)
+# 🎨 Musea - The Met Collection (Android)
 
 This project is an unofficial mobile app that was designed and developed by a team of three developers as a collaborative learning project.
 
